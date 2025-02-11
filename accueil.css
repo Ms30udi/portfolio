@@ -101,10 +101,15 @@ header .content {
     height: 60%;
     margin-left: 7%;
 }
-header .content h1{
+header .content h2{
     font-size: 40px;
     color: white;
 }
+header .content h1{
+    font-size: 40px;
+    color: aqua;
+}
+
 header .content p{
     margin: 20px 0 40px;
     color: white;
